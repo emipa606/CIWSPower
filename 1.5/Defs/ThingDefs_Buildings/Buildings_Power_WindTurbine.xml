@@ -23,6 +23,7 @@
     <passability>Impassable</passability>
     <blockWind>false</blockWind>
     <fillPercent>0.5</fillPercent>
+    <disableImpassableShotOverConfigError>true</disableImpassableShotOverConfigError>
     <statBases>
       <MaxHitPoints>150</MaxHitPoints>
       <WorkToBuild>3300</WorkToBuild>
