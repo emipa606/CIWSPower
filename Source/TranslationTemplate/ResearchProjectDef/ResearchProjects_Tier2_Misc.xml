@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 近防系统-回收能源 -->
+  <CIWS_CyclicEnergy.label>近防系统-回收能源</CIWS_CyclicEnergy.label>
+  <!-- EN: 回收游离的能源，解锁超大型火力发电机。 -->
+  <CIWS_CyclicEnergy.description>回收游离的能源，解锁超大型火力发电机。</CIWS_CyclicEnergy.description>
+</LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <CIWS_WindTurbine.label>Low drag wind generator</CIWS_WindTurbine.label>
   <CIWS_WindTurbine.description>After the redesign of the fluid mechanics, the wind resistance of the wind turbine is greatly reduced, and it can be ignored.</CIWS_WindTurbine.description>

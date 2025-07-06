@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <CIWS_WindTurbine.label>低风阻风力发电机</CIWS_WindTurbine.label>
   <CIWS_WindTurbine.description>经过流体力学的再设计，让风力发电机本身的风阻大大降低，基本可以忽略。</CIWS_WindTurbine.description>
