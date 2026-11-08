@@ -1,15 +1,15 @@
 # [CIWS_Power (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2610392504)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of topp2000s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1493502590
 
 - Added support for [Simple FX: Smoke](https://steamcommunity.com/sharedfiles/filedetails/?id=2574489704)
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Introduction: https://www.gamejilu.com/notes/rimworld_clws/
 Update log:
@@ -40,13 +40,13 @@ Update log:
 0.15.2：大型火力发电机改大。
 0.15.1：从CIWS近防系统mod中分离。
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -54,4 +54,4 @@ Update log:
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/CIWSPower?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2610392504) | tags:  power generation,  nuclear fusion
+[![Image](https://img.shields.io/github/v/release/emipa606/CIWSPower?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2610392504) | nuclear fusion, power generation
